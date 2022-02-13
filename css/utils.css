@@ -55,6 +55,24 @@
   background: var(--main-bg-color);
 }
 
+.btn2 {
+  padding: 0px 20px;
+  padding-top: 3px;
+  border: 2px solid black;
+  border-radius: 6px;
+  font-family: var(--font1);
+  font-size: 20px;
+  color: blueviolet;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn2:hover{
+  color: white;
+  font-weight: bold;
+  background-color: var(--main-bg-color);
+}
+
 .form-input {
   padding: 0px 5px;
   padding-top: 3px;
