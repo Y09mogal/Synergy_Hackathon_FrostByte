@@ -12,16 +12,16 @@ Future additions to this project:
 -> There will be section where users can contact experts, who will be going through the blogs and also providing their
 feedback wherever they wish to.
 -> Also make a login page in future to further improve the experience for the users and keep better track of their account.
+-> The users can also filter the list of blogs by providing tags.
 
 How to run this project?
 -> Download the zip folder from the below GitHub repository link. 
+
 https://github.com/Y09mogal/Synergy_Hackathon_FrostByte
 
 ->Run the index.html file via a browser or directly as a web page.
 -> The user will be directed to the home page.
 -> All the recent blogs will be displayed.
--> The users can also filter the list of blogs by providing tags.
-
 
 Known bugs:
 -> Due to the lack of proper data management and storage, the deleted comments only disappear temporarily from the screen.
