@@ -28,6 +28,13 @@ Known bugs:
 -> Any users can report bugs faced by them and are welcome to do so.
 -> Any major bugs/fixes will be removed as soon as possible.
 
+Refrences:
+https://www.youtube.com/watch?v=9FD2ugeS4OU
+https://www.youtube.com/watch?v=9FD2ugeS4OU
+https://javascript.plainenglish.io/how-to-create-a-comment-section-using-html-and-vanilla-js-aa6b6a53b9cf
+https://www.theodinproject.com/paths
+https://gooyaabitemplates.com/mogu-blogger-template/
+
 -------Team FrostByte-----------
 Yash Mogal
 Oishi Seth
