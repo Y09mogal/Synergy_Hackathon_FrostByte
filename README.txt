@@ -5,7 +5,7 @@ What is this project about?
 -> This is also aimed at acting as a self-help platform for people to disuss their problems. People can also provide their inputs via the comment section.
 -> Users can also post the comments anonymously.
 -> The author can also provide their contact information if they wish to.
--> The auhtor can alos provide tags to their blogs which will make it easier for the users to reach their page.
+-> The author can also provide tags to their blogs which will make it easier for the users to reach their page.
 
 Future additions to this project:
 -> The blogs shall be monitored by a bot to prevent any kind of unresponsive content from being displayed.
@@ -20,7 +20,7 @@ https://github.com/Y09mogal/Synergy_Hackathon_FrostByte
 ->Run the index.html file via a browser or directly as a web page.
 -> The user will be directed to the home page.
 -> All the recent blogs will be displayed.
--> The users can also filter the list of blogs by provid tags.
+-> The users can also filter the list of blogs by providing tags.
 
 
 Known bugs:
