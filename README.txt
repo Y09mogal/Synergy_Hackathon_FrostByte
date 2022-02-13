@@ -24,7 +24,7 @@ https://github.com/Y09mogal/Synergy_Hackathon_FrostByte
 
 
 Known bugs:
--> Due to the lack of proper data management and storage, the deleted comments olnly disappear temporarily from the screen.
+-> Due to the lack of proper data management and storage, the deleted comments only disappear temporarily from the screen.
 -> Any users can report bugs faced by them and are welcome to do so.
 -> Any major bugs/fixes will be removed as soon as possible.
 
